@@ -8,8 +8,6 @@
 #include <iopheap.h>
 #include <iopcontrol.h>
 
-int opciones;
-
 void ResetIOP()
 {
 	SifInitRpc(0);
